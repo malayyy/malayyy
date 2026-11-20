@@ -34,8 +34,7 @@ export function Hero() {
           </p>
 
           <p className="mt-5 border-l-2 border-accent pl-3 text-sm leading-relaxed text-muted">
-            Project work includes multi-tenant SaaS and real-time AI meeting
-            applications.
+            I work across CRM systems, backend engineering and business automation.
           </p>
 
           <ul
